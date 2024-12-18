@@ -1,0 +1,9 @@
+.container-Footer {
+    box-shadow: 0px 0px 5px gray;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 1%;
+    min-height: 5vh;
+    margin-top: auto;
+}
